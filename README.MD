@@ -1,4 +1,4 @@
-### 手写一个深拷贝
+### 手写一个Promise
 
 ### 安装ts-node
 ```javascript
@@ -10,6 +10,6 @@ yarn global add ts-node
 
 ### 测试运行方法
 ```javascript
-ts-node test/index.ts
+yarn test
 ```
 
